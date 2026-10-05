@@ -5,6 +5,7 @@ edition = "2021"
 rust-version = "1.86"
 description = "Tempo (BPM) and musical key detection for audio, with loudness and timbre descriptors, in pure Rust"
 license = "MIT OR Apache-2.0"
+repository = "https://github.com/RootInit/bpm-key"
 readme = "README.md"
 keywords = ["bpm", "key-detection", "tempo", "music", "audio"]
 categories = ["multimedia::audio"]
